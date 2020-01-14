@@ -156,4 +156,4 @@ Actual: 404 error on a3cef5a.js file.
 
 
 # Automated tests
-
+Sample: https://github.com/BordaCod/QA/blob/master/Automated-test-sample.js
